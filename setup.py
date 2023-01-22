@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 
 # Setting up
 setup(
@@ -9,7 +9,7 @@ setup(
     author="Pranjal Arora",
     author_email="<prv.gma@gmail.com>",
     url='https://github.com/pranjal-arora/Topsis',
-    download_url='https://github.com/pranjal-arora/Topsis/archive/refs/tags/v_111.tar.gz',
+    download_url='https://github.com/pranjal-arora/Topsis/archive/refs/tags/v_1.1.1.tar.gz',
     packages=['Topsis-Pranjal-102003402'],
     install_requires=['numpy', 'pandas', 'logging'],
     keywords=['python', 'topsis', 'machinelearning', 'datascience', 'statistics', 'predictiveanalysis'],
