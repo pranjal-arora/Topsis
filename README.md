@@ -3,7 +3,7 @@
 
 TOPSIS is the Technique for Order of Preference by Similarity to Ideal Solution, and it is a multi-criteria decision analysis method. It is based on the fundamental premise that the best solution has the shortest distance from the positive-ideal solution, and the longest distance from the negative-ideal one. 
 The method is used in the business across various industries, every time an analytical decision needs to be made, based on collected data.
-Following is a package, coded in Python, to implement Topsis Algorithm.
+Following is a package, coded in Python, to implement the Topsis Algorithm.
 
 ### Installation- USER MANUAL
 
